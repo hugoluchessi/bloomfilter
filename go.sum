@@ -1,0 +1,6 @@
+github.com/OneOfOne/xxhash v1.2.4 h1:HZ+j9jn/+mcsaDSQRZuK00pXWdE25AQLtgm8kZct1Ew=
+github.com/OneOfOne/xxhash v1.2.4/go.mod h1:HSdplMjZKSmBqAxg5vPj2TmRDmfkzw+cTzAElWljhcU=
+github.com/hugoluchessi/bitarray v0.0.0-20190211224546-2e3e3f8c72e2 h1:qoUmMcZgN3JdHkJAakdeH5s4o/n3RB9G0oigGpspTh0=
+github.com/hugoluchessi/bitarray v0.0.0-20190211224546-2e3e3f8c72e2/go.mod h1:foawxbICZ0Gl7VGifEQ7foci9BHBY2aejs4RkJi/Iyg=
+github.com/hugoluchessi/goerrors v0.0.0-20181228180524-1936f6f3c5f3 h1:jF0jaG4+HiTmcL06lbreKZLT8+K61IJh056TzSCWwDE=
+github.com/hugoluchessi/goerrors v0.0.0-20181228180524-1936f6f3c5f3/go.mod h1:bj7wi5LhSc2NsGr45hLP6MW2ZCSGjORmpARJTwWiDdw=
